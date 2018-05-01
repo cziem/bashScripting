@@ -53,3 +53,4 @@ gedit app.js
 #display the content of app.js
 echo displaying the content app.js
 cat app.js 
+
