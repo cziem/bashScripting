@@ -38,8 +38,7 @@ cat src/database.sh
 
 #run database.sh
 echo fayvor is running database.sh script now...
-cd src
-./database.sh
+ src./database.sh
 
 #print working directory
 echo printing working directory
